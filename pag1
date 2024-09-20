@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>pagina 1</title>
+    </head>
+    <body>
+        <div id="header">
+            <h1>tentativa pagina 1</h1>
+        </div>
+        <div id="main-content">
+            <h2>Malu</h2>
+            <a href="file:///C:/Users/ADS/Documents/malu/Nova%20pasta/index.html">Ir para a página 2</a>
+    </body>
+</html>
